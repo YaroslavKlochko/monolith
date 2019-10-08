@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
 Class-Path: C:\Users\Axwell\IdeaProjects\mono
-Main-Class: com.petproject.mono.HelloWorld
+Main-Class: com.petproject.mono.App
 
